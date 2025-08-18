@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"像素级碰撞",
+  "name":"像素级碰撞",
+  "parent":{
+    "name":"便签",
+    "path":"folders/便签.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
